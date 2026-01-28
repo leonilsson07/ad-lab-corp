@@ -102,7 +102,8 @@ ad-lab-corp/
 │   ├── troubleshooting.md
 │   └── ad-structure.md
 └── screenshots/
-    ├── network-config.png
+    ├── client1-network-config.png
+    ├── server1-network-config.png
     ├── ad-users-and-groups.png
     ├── file-shares-permissions.png
     ├── successful-domain-join.png
