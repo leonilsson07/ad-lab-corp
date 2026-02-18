@@ -10,7 +10,7 @@ It is designed for hands-on learning, certification preparation, and general hom
 ## Project Overview
 
 - Domain Name: **corp.local**
-- Domain Controller: **SERVER1** running Windows Server 2022  
+- Domain Controller: **SERVER1** running Windows Server 2024  
 - Client Workstation: **CLIENT1** running Windows 10 Pro  
 - Virtual Network: **VirtualBox Internal Network named LABNET**
 
@@ -43,7 +43,7 @@ It is designed for hands-on learning, certification preparation, and general hom
 ## Virtual Machine Specifications
 
 ### SERVER1 – Domain Controller
-- Operating System: Windows Server 2022  
+- Operating System: Windows Server 2024  
 - RAM: 4 GB  
 - CPU: 2 vCPUs  
 - Storage: 40 GB  
@@ -104,7 +104,8 @@ ad-lab-corp/
 └── screenshots/
     ├── client1-network-config.png
     ├── server1-network-config.png
-    ├── ad-users-and-groups.png
+    ├── ad-users.png
+    ├── ad-groups.png
     ├── file-shares-permissions.png
     ├── successful-domain-join.png
     └── access-tests.png
